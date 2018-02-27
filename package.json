@@ -1,0 +1,21 @@
+{
+  "name": "react-create-comp",
+  "version": "1.0.0",
+  "description": "Create React Components with Command Line",
+  "main": "app.js",
+  "preferGlobal": true,
+  "bin": "./command.js",
+  "scripts": {
+      "start":"node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mohamedelshorbagy/react-create-comp"
+  },
+  "author": "shorbagy",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.14.1",
+    "touch": "^3.1.0"
+  }
+}
