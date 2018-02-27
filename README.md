@@ -1,4 +1,4 @@
-## Vue-Component Creator
+## React-Component Creator
 <p>Command Line Creator For Creating React Component Files in any React Project</p>
 
 ## Environment
