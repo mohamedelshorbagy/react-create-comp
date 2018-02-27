@@ -16,18 +16,18 @@ npm install -g react-create-comp
 <p>In any React Project run this command</p>
 
 ```
-react-create-comp create <ComponentName>
+react-create-comp generate <ComponentName>
 ```
 <p>For Stateless Component</p>
 
 ```
-react-create-comp create <ComponentName> -s
+react-create-comp generate <ComponentName> -s
 ```
 
 or
 
 ```
-react-create-comp create <ComponentName> --stateless
+react-create-comp generate <ComponentName> --stateless
 ```
 
 
@@ -35,7 +35,7 @@ react-create-comp create <ComponentName> --stateless
 <p>Alias</p>
 
 ```
-react-create-comp c <ComponentName> [-s , --stateless]
+react-create-comp g <ComponentName> [-s , --stateless]
 ```
 
 

@@ -6,7 +6,7 @@
   "preferGlobal": true,
   "bin": "./command.js",
   "scripts": {
-      "start":"node app.js"
+    "start": "node app.js"
   },
   "repository": {
     "type": "git",
